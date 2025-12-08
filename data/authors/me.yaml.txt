@@ -1,0 +1,105 @@
+schema: hugoblox/author/v1
+slug: me
+is_owner: true
+name:
+  display: Linh Hoang
+  given: Linh
+  family: Hoang
+  alternate: ''  # Example: 王伟
+  pronunciation: ''  # Example: Wáng Wěi
+  pronouns: she/her
+postnominals: []
+  status:
+  icon: "🪄"
+role: International Business Student
+bio: 
+  Hi, I'm currently a third-year International Business student at Foreign Trade University (FTU). Formerly an active member of the ECOM Club, where I developed a keen interest in E-commerce and digital business strategies. Beyond academics, I describe myself as an avid reader and a travel enthusiast who loves exploring new cultures and perspectives.
+
+affiliations:
+  - name: FTU
+    url: https://ftu.edu.vn/
+
+links:
+  - icon: at-symbol
+    url: mailto:linhhoang150105@gmail.com
+    label: E-mail Me
+  - icon: brands/github
+    url: https://github.com/linhhoang150105
+  - icon: brands/linkedin
+    url: https://www.linkedin.com/in/ecom-ho%C3%A0ng-di%E1%BB%87u-linh-9849272b1/
+ 
+interests:
+  - Language Learning
+  - Business Analysis
+  - Media & Communications
+  - E-Commerce
+
+education:
+  - degree: 
+    institution: Stanford University
+    start: 2015-09-01
+    end: 2019-06-30
+    summary: |
+      Thesis on scaling laws for neural language models. Published 5 papers in NeurIPS and ICML.
+    button:
+      text: Download dissertation
+      url: /resume.pdf
+      icon: hero/arrow-down-tray
+  - degree: MS Computer Science
+    institution: Carnegie Mellon University
+    start: 2013-09-01
+    end: 2015-05-31
+  - degree: BS Computer Science
+    institution: MIT
+    start: 2009-09-01
+    end: 2013-05-31
+
+experience:
+  - role: Senior AI Research Scientist
+    org: Meta AI
+    start: 2020-01-01
+    summary: |
+      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models.
+    button:
+      text: View portfolio
+      url: /
+      icon: hero/arrow-down-tray
+  - role: AI Research Intern
+    org: OpenAI
+    start: 2019-06-01
+    end: 2019-12-31
+    summary: |
+      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+
+skills:
+  - name: Technical Skills
+    items:
+      - label: Pytho
+        level: 5
+      - label: Machine Learning
+        level: 5
+      - label: Cloud Computing
+        level: 4
+  - name: Research & Communication
+    items:
+      - label: Academic Writing
+        level: 5
+      - label: Conference Presentations
+        level: 4
+      - label: Grant Proposals
+        level: 4
+
+languages:
+  - name: English
+    level: 5
+    label: Native
+  - name: Spanish
+    level: 4
+    label: Fluent
+
+awards:
+  - title: Best Paper Award
+    awarder: NeurIPS
+    date: "2022-12-01"
+    summary: Awarded for groundbreaking work on efficient training of large models.
+    icon: hero/trophy
