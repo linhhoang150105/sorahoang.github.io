@@ -2,22 +2,21 @@ schema: hugoblox/author/v1
 slug: me
 is_owner: true
 name:
-  display: Dr. Alex Johnson
-  given: Alex
-  family: Johnson
-  alternate: ''  # Example: 王伟
+  display: Linh Hoang
+  given: Linh
+  family: Hoang
+  alternate: 'Sora'  # Example: 王伟
   pronunciation: ''  # Example: Wáng Wěi
-  pronouns: he/him
+  pronouns: she/her
 postnominals:
-  - PhD
-  - MIEEE
+  
 status:
   icon: "☕️"
-role: Senior AI Research Scientist
+role: International Business studen
 bio: |
  Hi there, I'm Sora! 
 
-I am currently a third-year majoring International Business student at Foreign Trade University (FTU). Formerly an active member of the ECOM Club, where I developed a keen interest in E-commerce and digital business strategies. Beyond academics, I describe myself as an avid reader and a travel enthusiast who loves exploring new cultures and perspectives.
+I am currently a third-year majoring in International Business student at Foreign Trade University (FTU). Formerly an active member of the ECOM Club, where I developed a keen interest in E-commerce and digital business strategies. Beyond academics, I describe myself as an avid reader and a travel enthusiast who loves exploring new cultures and perspectives.
 
 affiliations:
   - name: Meta AI
