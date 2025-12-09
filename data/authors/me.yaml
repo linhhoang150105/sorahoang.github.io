@@ -11,14 +11,15 @@ name:
   pronouns: she/her
 postnominals: []
 status:
-  icon: "🎓" # Icon mũ cử nhân
-role: International Business Student | FTU
+  icon: "🪄" # Icon mũ cử nhân
+role: International Business Student
 
 # --- Phần Bio ngắn (Hiện ở cột trái) ---
 bio: |
-  Third-year International Business student at Foreign Trade University (FTU).
-  Former member of ECOM Club with a passion for E-commerce & Tech.
-
+  Hi there, I'm Sora! 
+I am currently a third-year majoring in International Business student at Foreign Trade University (FTU). 
+Formerly an active member of the ECOM Club, where I developed a keen interest in E-commerce and digital business strategies. 
+Beyond academics, I describe myself as an avid reader and a travel enthusiast who loves exploring new cultures and perspectives.
 affiliations:
   - name: Foreign Trade University (FTU)
     url: http://ftu.edu.vn/
@@ -26,12 +27,12 @@ affiliations:
 # --- Phần Link mạng xã hội ---
 links:
   - icon: at-symbol
-    url: mailto:email_cua_ban@gmail.com
+    url: mailto:linhhoang150105@gmail.com
     label: E-mail Me
   - icon: brands/github
     url: https://github.com/linhhoang150105
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/link-cua-ban/
+    url: https://www.linkedin.com/in/ho%C3%A0ng-di%E1%BB%87u-linh-4a2a64323/
 
 # --- Phần Sở thích (Đã sửa theo ý bạn) ---
 interests:
@@ -39,8 +40,7 @@ interests:
   - Business Analysis (BA)
   - Communications
   - Language Learning
-  - Web Development
-
+  
 # --- Phần Học vấn (Đã sửa thành FTU) ---
 education:
   - degree: Bachelor of International Business
