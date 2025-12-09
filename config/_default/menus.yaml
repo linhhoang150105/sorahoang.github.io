@@ -4,10 +4,10 @@ main:
     url: /
     weight: 10
     
-  - name: EXTRACURRICULAR ACTIVITIES
+  - name: Extracurricular Activities
     url: /#experience
     weight: 20
 
-  - name: AWARDS
+  - name: Awards
     url: /#accomplishments
     weight: 30
