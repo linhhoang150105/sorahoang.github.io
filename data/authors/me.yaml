@@ -1,116 +1,95 @@
+---
 schema: hugoblox/author/v1
 slug: me
 is_owner: true
 name:
-  display: Dr. Alex Johnson
-  given: Alex
-  family: Johnson
-  alternate: ''  # Example: 王伟
-  pronunciation: ''  # Example: Wáng Wěi
-  pronouns: he/him
-postnominals:
-  - PhD
-  - MIEEE
+  display: Linh Hoang
+  given: Linh
+  family: Hoang
+  alternate: 'Sora' 
+  pronunciation: '' 
+  pronouns: she/her
+postnominals: []
 status:
-  icon: "☕️"
-role: Senior AI Research Scientist
+  icon: "🪄" 
+role: International Business Student
+
+# --- PHẦN BIO ---
 bio: |
-  Alex Johnson is a Senior AI Research Scientist at Meta AI. His research
-  has been published in top conferences like NeurIPS and ICML, with over
-  10,000 citations. Alex is passionate about pushing the boundaries of AI
-  while ensuring ethical development.
+  Hi there, I'm Sora! 
+  I am currently a third-year majoring in International Business student at Foreign Trade University (FTU). 
+  Formerly an active member of the ECOM Club, where I developed a keen interest in E-commerce and digital business strategies. 
+  Beyond academics, I describe myself as an avid reader and a travel enthusiast who loves exploring new cultures and perspectives.
 
 affiliations:
-  - name: Meta AI
-    url: https://ai.meta.com/
+  - name: Foreign Trade University (FTU)
+    url: http://ftu.edu.vn/
 
 links:
   - icon: at-symbol
-    url: mailto:alex.johnson@example.com
+    url: mailto:linhhoang150105@gmail.com
     label: E-mail Me
-  - icon: brands/x
-    url: https://x.com/example
   - icon: brands/github
-    url: https://github.com/example
+    url: https://github.com/linhhoang150105
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/example/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=example
-  - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
+    url: https://www.linkedin.com/in/ho%C3%A0ng-di%E1%BB%87u-linh-4a2a64323/
 
 interests:
-  - Large Language Models
-  - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
+  - International Business
+  - Business Analysis (BA)
+  - Communications
+  - Language Learning
 
 education:
-  - degree: PhD Computer Science
-    institution: Stanford University
-    start: 2015-09-01
-    end: 2019-06-30
+  - degree: Bachelor of International Business (Expected)
+    institution: Foreign Trade University (FTU)
+    start: 2023-10-01
+    end: 2027-10-01
     summary: |
-      Thesis on scaling laws for neural language models. Published 5 papers in NeurIPS and ICML.
-    button:
-      text: Download dissertation
-      url: /resume.pdf
-      icon: hero/arrow-down-tray
-  - degree: MS Computer Science
-    institution: Carnegie Mellon University
-    start: 2013-09-01
-    end: 2015-05-31
-  - degree: BS Computer Science
-    institution: MIT
-    start: 2009-09-01
-    end: 2013-05-31
+      Major: International Business.
+      Current Year: Junior (3rd Year).
+      Active member of ECOM Club.
+      
+  - degree: High School Diploma (English Specialization)
+    institution: Nguyen Hue High School for the Gifted
+    start: 2020-10-01
+    end: 2023-05-31
+    summary: |
+      Major: English.
 
 experience:
-  - role: Senior AI Research Scientist
-    org: Meta AI
-    start: 2020-01-01
+  - role: Member / Organizer
+    org: ECOM Club - FTU
+    start: 2023-10-01
+    end: 2025-01-01
     summary: |
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models.
-    button:
-      text: View portfolio
-      url: /
-      icon: hero/arrow-down-tray
-  - role: AI Research Intern
-    org: OpenAI
-    start: 2019-06-01
-    end: 2019-12-31
-    summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+      Participated in organizing events related to E-commerce.
+      Researched market trends and digital business models.
 
 skills:
+  - name: Business & Language
+    items:
+      - label: Business Analysis
+        level: 3
+      - label: English
+        level: 4
+      - label: Communications
+        level: 5
   - name: Technical Skills
     items:
-      - label: Pytho
-        level: 5
-      - label: Machine Learning
-        level: 5
-      - label: Cloud Computing
-        level: 4
-  - name: Research & Communication
-    items:
-      - label: Academic Writing
-        level: 5
-      - label: Conference Presentations
-        level: 4
-      - label: Grant Proposals
-        level: 4
+      - label: Python (Basic)
+        level: 3
+      - label: Web Dev (HTML/CSS)
+        level: 3
 
 languages:
-  - name: English
+  - name: Vietnamese
     level: 5
     label: Native
-  - name: Spanish
+  - name: English
     level: 4
-    label: Fluent
+    label: Professional
+    
+awards: [] 
 
-awards:
-  - title: Best Paper Award
-    awarder: NeurIPS
-    date: "2022-12-01"
-    summary: Awarded for groundbreaking work on efficient training of large models.
-    icon: hero/trophy
+---
