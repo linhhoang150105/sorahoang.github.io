@@ -11,20 +11,22 @@ name:
   pronouns: she/her
 postnominals: []
 status:
-  icon: "🪄" # Icon mũ cử nhân
+  icon: "🪄" 
 role: International Business Student
 
-# --- Phần Bio ngắn (Hiện ở cột trái) ---
+# --- ĐÂY LÀ PHẦN BIO BẠN MUỐN GIỮ ---
+# Lưu ý: Các dòng chữ bên dưới chữ 'bio: |' đều được thụt vào 2 dấu cách.
 bio: |
   Hi there, I'm Sora! 
-I am currently a third-year majoring in International Business student at Foreign Trade University (FTU). 
-Formerly an active member of the ECOM Club, where I developed a keen interest in E-commerce and digital business strategies. 
-Beyond academics, I describe myself as an avid reader and a travel enthusiast who loves exploring new cultures and perspectives.
+  I am currently a third-year majoring in International Business student at Foreign Trade University (FTU). 
+  Formerly an active member of the ECOM Club, where I developed a keen interest in E-commerce and digital business strategies. 
+  Beyond academics, I describe myself as an avid reader and a travel enthusiast who loves exploring new cultures and perspectives.
+
+# --- Phần này phải nằm sát lề trái (Không được thụt vào) ---
 affiliations:
   - name: Foreign Trade University (FTU)
     url: http://ftu.edu.vn/
 
-# --- Phần Link mạng xã hội ---
 links:
   - icon: at-symbol
     url: mailto:linhhoang150105@gmail.com
@@ -34,24 +36,20 @@ links:
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/ho%C3%A0ng-di%E1%BB%87u-linh-4a2a64323/
 
-# --- Phần Sở thích (Đã sửa theo ý bạn) ---
 interests:
   - International Business
   - Business Analysis (BA)
   - Communications
   - Language Learning
-  
-# --- Phần Học vấn (Đã sửa thành FTU) ---
+
 education:
   - degree: Bachelor of International Business
     institution: Foreign Trade University (FTU)
     start: 2023-09-01
     end: 2027-06-30
     summary: |
-      GPA: ... (Điền nếu muốn)
       Active member of ECOM Club.
 
-# --- Phần Kinh nghiệm (Đã sửa thành ECOM Club) ---
 experience:
   - role: Member / Organizer
     org: ECOM Club - FTU
@@ -61,7 +59,6 @@ experience:
       Participated in organizing events related to E-commerce.
       Researched market trends and digital business models.
 
-# --- Phần Kỹ năng (Business + Tech) ---
 skills:
   - name: Business & Language
     items:
@@ -89,10 +86,3 @@ languages:
 awards: [] 
 
 ---
-Hi there, I'm Sora! 👋
-
-I am currently a third-year student majoring in **International Business** at **Foreign Trade University (FTU)**.
-
-Formerly an active member of the **ECOM Club**, where I developed a keen interest in E-commerce and digital business strategies.
-
-Beyond academics, I describe myself as an avid reader 📚 and a travel enthusiast ✈️ who loves exploring new cultures and perspectives.
