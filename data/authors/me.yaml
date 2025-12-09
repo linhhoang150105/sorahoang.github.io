@@ -43,10 +43,20 @@ interests:
   - Language Learning
 
 education:
-  - degree: Bachelor of International Business
+  - degree: Bachelor of International Business (Expected)
     institution: Foreign Trade University (FTU)
-    start: 2023-09-01
-    end: 2027-06-30
+    start: 2023-10-01
+    end: 2027-10-01
+    summary: |
+      Major: International Business.
+      Current Year: Junior (3rd Year).
+      
+  - degree: High School Diploma (English Specialization)
+    institution: Nguyen Hue High School for the Gifted
+    start: 2020-10-01
+    end: 2023-05-31
+    summary: |
+      Major: English.
     summary: |
       Active member of ECOM Club.
 
