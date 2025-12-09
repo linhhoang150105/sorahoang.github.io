@@ -14,15 +14,13 @@ status:
   icon: "🪄" 
 role: International Business Student
 
-# --- ĐÂY LÀ PHẦN BIO BẠN MUỐN GIỮ ---
-# Lưu ý: Các dòng chữ bên dưới chữ 'bio: |' đều được thụt vào 2 dấu cách.
+# --- PHẦN BIO ---
 bio: |
   Hi there, I'm Sora! 
   I am currently a third-year majoring in International Business student at Foreign Trade University (FTU). 
   Formerly an active member of the ECOM Club, where I developed a keen interest in E-commerce and digital business strategies. 
   Beyond academics, I describe myself as an avid reader and a travel enthusiast who loves exploring new cultures and perspectives.
 
-# --- Phần này phải nằm sát lề trái (Không được thụt vào) ---
 affiliations:
   - name: Foreign Trade University (FTU)
     url: http://ftu.edu.vn/
@@ -50,6 +48,7 @@ education:
     summary: |
       Major: International Business.
       Current Year: Junior (3rd Year).
+      Active member of ECOM Club.
       
   - degree: High School Diploma (English Specialization)
     institution: Nguyen Hue High School for the Gifted
@@ -57,8 +56,6 @@ education:
     end: 2023-05-31
     summary: |
       Major: English.
-    summary: |
-      Active member of ECOM Club.
 
 experience:
   - role: Member / Organizer
