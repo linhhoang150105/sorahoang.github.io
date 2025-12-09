@@ -1,9 +1,5 @@
 # Configuration of Hugo
-# Guide: https://docs.hugoblox.com/tutorial/
-# Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
-# This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
-
-# Website name (set in params.yaml under hugoblox.branding.name)
+# Website name
 title: 'Linh Hoang - Portfolio'
 # Website URL
 baseURL: 'https://linhhoang150105.github.io/sorahoang.github.io/'
@@ -11,7 +7,6 @@ baseURL: 'https://linhhoang150105.github.io/sorahoang.github.io/'
 ############################
 ## LANGUAGE
 ############################
-
 defaultContentLanguage: en
 hasCJKLanguage: false
 defaultContentLanguageInSubdir: false
@@ -20,7 +15,6 @@ removePathAccents: true
 ############################
 ## ADVANCED
 ############################
-
 build:
   writeStats: true
 enableGitInfo: false
